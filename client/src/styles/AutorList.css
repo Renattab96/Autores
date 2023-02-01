@@ -1,0 +1,17 @@
+.autorlist{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+table, tr, td, th{
+    border: solid 1px black;
+    font-size: 20px;
+    padding: 10px;
+}
+
+button{
+    /* margin-right: 10px; */
+    padding: 3px 15px;
+}

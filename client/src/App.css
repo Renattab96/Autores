@@ -1,0 +1,24 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+}
+
+header{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  background-color: rgb(192, 236, 226);
+}
+
+ul{
+  display: flex;
+  gap: 20px;
+}
+
+ul, li{
+  list-style: none;
+  font-weight: bold;
+}
+
